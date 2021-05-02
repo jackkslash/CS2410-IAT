@@ -1,0 +1,8 @@
+inputGroupFile01::before {
+    content: "Pick file";
+    position: absolute;
+    z-index: 2;
+    display: block;
+    background-color: #eee;
+    width: 80px;
+  }
